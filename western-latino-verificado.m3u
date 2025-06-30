@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Western" tvg-name="The Outlaw" tvg-logo="", The Outlaw (1943)
+https://archive.org/download/TheOutlaw/TheOutlaw_512kb.mp4
+
+#EXTINF:-1 group-title="Western" tvg-name="McLintock!" tvg-logo="", McLintock! (1963)
+https://archive.org/download/mclintock1963/McLintock%201963.mp4
+
+#EXTINF:-1 group-title="Western" tvg-name="The Lone Ranger" tvg-logo="", The Lone Ranger - Enter the Lone Ranger (1949)
+https://archive.org/download/LoneRanger1x01/LoneRanger1x01.mp4
